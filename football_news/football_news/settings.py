@@ -39,7 +39,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "https://evan-haryo-footballnews.pbp.cs.ui.ac.id/"
+    "https://evan-haryo-footballnews.pbp.cs.ui.ac.id",
+    "http:///evan-haryo-footballnews.pbp.cs.ui.ac.id"
 ]
 
 
